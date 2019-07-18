@@ -6,4 +6,4 @@ react-dom,
 react-scripts,
 react-router-dom,
 react-linechart,
-react-websocket,
+react-websocket
